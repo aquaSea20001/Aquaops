@@ -109,6 +109,6 @@ These requirements are much more nuanced, and if you classify wrongly, fraud and
 
 Here is link to the IRS conditions: https://www.irs.gov/taxtopics/tc762
 
-A note that if JD and Kylie are classfied as employees on the state level, it becomes harder to justify we are 1099's at the federal level.
+A note that if JD and Kylie are classfied as employees on the state level, it becomes harder to justify we are 1099'sgir at the federal level.
 
 **Solution:** We need a lawyer as this is getting into the weeds of tax law and none of us are lawyers.
